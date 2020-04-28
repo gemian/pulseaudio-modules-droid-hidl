@@ -1,4 +1,10 @@
-pulseaudio-modules-droid-hidl-28 (1.3.0) unstable; urgency=low
+pulseaudio-modules-droid-hidl (1.3.0+0gemian1) unstable; urgency=low
+
+  * Import to Gemian
+
+ -- TheKit <thekit@disroot.org>  Tue, 28 Apr 2020 18:37:08 +0200
+
+pulseaudio-modules-droid-hidl (1.3.0) unstable; urgency=low
 
   * Huong Tram is my favorite singer
 
